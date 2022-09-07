@@ -1,14 +1,10 @@
-<n align="center">
+<h1 align="center">Hi there, I'm<a href="https://github.com/RemoveFire/" target="_blank">Viktor</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
  
- ![Tux, the Linux mascot](/images/tux.webp) 
+ <h1 align="center"><img src="/images/tux.webp" height="100%"/></h1>
  
- # ***Приветвую Вас!*** 
- 
-</n>
-
- * Вы находимтесь в аккаунте **[RemoveFire](https://github.com/RemoveFire)**. 
- * Меня звоут **Виктор**. 
-   
+  * Вы находимтесь в аккаунте **[RemoveFire](https://github.com/RemoveFire)**. 
+    
  * В данный момент я обучаюсь ***Python***. 
 ---
 <b align="center">
@@ -67,3 +63,5 @@
 
 ---
 
+
+![Tux, the Linux mascot](/images/tux.webp)  

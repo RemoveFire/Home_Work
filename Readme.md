@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm<a href="https://github.com/RemoveFire/" target="_blank">Viktor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
  
- <h1 align="center"><img src="/images/tux.webp" height="100%"/></h1>
+<h1 align="center"><img src="/images/tux.webp" height="100%"/></h1>
  
   * Вы находимтесь в аккаунте **[RemoveFire](https://github.com/RemoveFire)**. 
     
